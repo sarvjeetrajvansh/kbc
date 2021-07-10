@@ -82,7 +82,7 @@ var leaderBoard = [
   player : "Sarvjeet",
   point: `${questionBank.length}`,
 },{
-  player:"Rauhl",
+  player:"Rajvansh",
   point: `${questionBank.length -1}`
 }
 ]
