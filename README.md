@@ -1,4 +1,4 @@
-# kBC APP
+# KBC APP
 * kaun Banega Console Pati.
 
 > # A console based quiz 
